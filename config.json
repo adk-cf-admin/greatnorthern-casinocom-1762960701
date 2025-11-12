@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#301C2A",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#301C2A",
+            "main-bg": "#F5F5F5",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#301C2A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FAC66B",
+            "yellow": "#921245",
+            "yellow-button": "#FAC66B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#D8D8D8",
+            "faq-label": "#ffffff",
+            "bg-footer": "#301C2A",
+            "copyright": "#e7e7d5",
+            "starColor": "#921245",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Great Northern Casino",
+            "title": "Great Northern Casino | Slots, Poker, Live Shows & Dining in Grande Prairie",
+            "description": "Discover the ultimate gaming and entertainment experience at Great Northern Casino: slots, table games, poker tournaments, live music, bars, and fine dining. Explore bonuses, events, and \u201cStay & Play\u201d packages for an unforgettable visit.\n",
+            "canonical": "greatnorthern-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/505",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "greatnorthern-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/506",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/507"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/514",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Great Northern Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Great Northern Casino \u2014 Gaming, Entertainment & Leisure in Alberta",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/503",
+            "imageSizeModifier": 0,
+            "imageYModifier": -4,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/504",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slot machines.",
+                "Table games for every skill level.",
+                "Poker room with tournaments and cash games.",
+                "Progressive jackpots on slot machines.",
+                "Live concerts and entertainment shows.",
+                "Cozy lounge with bar and restaurant.",
+                "Spacious parking and convenient location."
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Great Northern Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/511",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Great Northern Casino App",
+            "mobileGooglePlayImageTitle": "Great Northern Casino App",
+            "mobileIosImageTitle": "Great Northern Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Great Northern Casino",
+                "description1": "",
+                "items": [
+                    "Jackpots up to $500,000",
+                    "Bonuses for new players",
+                    "Daily prize giveaways"
+                ],
+                "description2": "Great Northern Casino is a modern entertainment venue that combines the thrill of gaming with live performances. Guests can enjoy a wide selection of slot machines, table games, and poker tournaments. The casino features cozy bars and restaurants offering a variety of food and drinks. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/512",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Regular concerts, comedy nights, and themed events create a lively atmosphere. It\u2019s the perfect destination for those seeking excitement, relaxation, and excellent service all in one place."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "A World of Gaming and Entertainment in Alberta",
+                "description": "<p> Great Northern Casino is more than just a gaming venue; it\u2019s a full-fledged entertainment hub where excitement meets comfort and a festive atmosphere. The interior boasts a modern design with touches reminiscent of Las Vegas, creating a unique experience for every guest. Visitors can immerse themselves in a wide range of slot machines, table games, and regular poker tournaments that attract card enthusiasts from across the region.\n<\/p>\n<br>\n<p> Within the casino, guests will find cozy bars and a restaurant serving both local and international cuisine. The Platinum Lounge is the perfect spot for those who appreciate stylish relaxation with cocktails and live music. Frequent concerts, comedy nights, and themed shows add vibrancy to the experience. For those planning an overnight stay, nearby hotels such as Service Plus Inns & Suites offer special packages tailored for casino visitors.\n<\/p>\n<br>\n<p> The entertainment program at Great Northern Casino is impressively diverse. Beyond gaming, guests can enjoy live performances, karaoke, stand-up comedy, and music nights. The casino regularly hosts themed events that appeal to both locals and tourists, making it a destination for anyone seeking fun \u2014 from a quiet evening at the tables to a lively night of dancing and music.\n<\/p>\n<br>\n<p>Special attention is given to bonus offers and loyalty programs. Regular patrons benefit from exclusive deals, discounts, and access to private events. The loyalty program allows players to accumulate points and redeem them for gifts, complimentary meals, or entry into special draws. This makes every visit not only exciting but also rewarding.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGreat Northern Casino Visitor Rules\n<\/h3>\n\n<p> Visiting the casino requires following certain rules designed to ensure comfort and safety for everyone. The main requirements relate to age, dress code, and conduct within the venue. The management aims to create an atmosphere where guests feel welcome while respecting etiquette standards.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key Rules<\/h4>\n\n\n        <ul>\n            <li>\u2022 Entry is allowed only for adults (typically 18 or 19+, depending on local laws).\n<\/li>\n            <li>\u2022 A valid photo ID must be presented upon entry.\n<\/li>\n            <li>\u2022 Weapons, illegal substances, and outside alcoholic beverages are strictly prohibited.\n<\/li>\n            <li>\u2022 Photography and video recording in gaming areas are restricted.\n\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n\n\n        <ul>\n            <li>\u2022 Neat, presentable attire in casual or smart casual style is recommended.\n<\/li>\n            <li>\u2022 Beachwear, sports outfits, torn clothing, and overly revealing garments are not permitted.\n<\/li>\n            <li>\u2022 Shoes should be closed-toe and clean.\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Visitation Conditions<\/h4>\n\n\n        <ul>\n            <li>\u2022 Guests must adhere to responsible gaming practices.\n<\/li>\n            <li>\u2022 The casino reserves the right to refuse entry to anyone visibly intoxicated or under the influence of drugs.\n<\/li>\n            <li>\u2022 Smoking is allowed only in designated areas.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRock Star Loyalty Program at Great Northern Casino\n<\/h3>\n\n<p> The Great Northern Casino loyalty program, called Rock Star, is designed to reward players for their continued activity and visits. It operates on a points-based system where you earn points by playing slots, video poker, and table games. The more you play, the higher your tier and the more exclusive perks you unlock. The program features multiple levels, each offering enhanced benefits\u2014from complimentary drinks and discounts to personalized offers and VIP events.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Benefits<\/h4>\n\n\n        <ul>\n            <li>\u2022 Earn points for every wager.\n<\/li>\n            <li>\u2022 Redeem points for bonuses, free meals, or raffle entries.\n<\/li>\n            <li>\u2022 Access to exclusive promotions and private events.\n<\/li>\n            <li>\u2022 Personalized offers for high-tier players.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">How Points Are Earned<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slots: 1 point for every $3 wagered.\n<\/li>\n            <li>\u2022 Video Poker: 1 point for every $6 wagered.\n<\/li>\n            <li>\u2022 To reach Hall of Fame, you need roughly $45,000 in slot play; Legend requires about $150,000; Icon demands around $300,000.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Rock Star Program Tiers<\/h4>\n\n\n        <ul>\n            <li>\u2022 Rock Star (entry level): starts at around 15,000 points.\n<\/li>\n            <li>\u2022 Hall of Fame: approximately 50,000 points.\n<\/li>\n            <li>\u2022 Legend: about 100,000 points.\n<\/li>\n            <li>\u2022 Icon (VIP): top tier, requiring over 100,000 points and significant play.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Rewards and Privileges<\/h4>\n\n\n        <ul>\n            <li>\u2022 Complimentary drinks and meals.\n<\/li>\n            <li>\u2022 Entry into special tournaments and prize draws.\n<\/li>\n            <li>\u2022 Dedicated VIP host for top-tier members.\n<\/li>\n            <li>\u2022 Invitations to exclusive parties and live shows.\n<\/li>\n        <\/ul><br>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Great Northern Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Great Northern Casino\n<\/h3>\n\n<p> Great Northern Casino provides guests with more than just gaming variety\u2014it offers generous bonuses, exciting promotions, and seasonal events that make every visit unforgettable. Players can chase massive jackpots on slots, enjoy extra rewards through tournaments, and take advantage of holiday-themed specials. The casino frequently hosts themed nights, prize draws, and festive promotions to add even more excitement to the experience. In addition, there are exclusive offers for new and returning players, including free spins, bonus credits, and gift certificates.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key Bonuses and Promotions<\/h4>\n\n\n        <ul>\n            <li>\u2022 Progressive Slot Jackpots: certain machines feature prizes that can reach tens of thousands of dollars. For example, slots like Diamond Millions or Cash Burst often have jackpots exceeding $50,000.\n<\/li>\n            <li>\u2022 Poker and Table Game Tournaments: winners receive cash prizes ranging from $500 to $5,000, plus free entries to future events.\n<\/li>\n            <li>\u2022 Seasonal and Holiday Promotions: Christmas and New Year events include prize draws for dinners for two, concert tickets, and cash bonuses up to $1,000.\n<\/li>\n            <li>\u2022 Weekly Promotions: \u201cFree Spins Friday\u201d offers up to 50 free spins on popular slots, while \u201cReload Bonus\u201d gives up to $200 on account top-ups.\n<\/li>\n\t    <li>\u2022 Special Entertainment Packages: bundles like \u201cPlay & Laugh\u201d for $99 include dinner, a comedy show, and $50 in gaming credits.\n<\/li>\n\t    <li>\u2022 Online Player Bonuses: new online members enjoy a welcome bonus of 100% up to $750 + 200 free spins, plus a unique \u201cBonus Crab\u201d feature with surprise rewards.\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Great Northern Casino\n<\/h3>\n\n<p> Great Northern Casino offers a wide range of games designed to satisfy both fans of classic casino entertainment and those who love modern slot machines. The majority of the gaming floor is dedicated to slots, featuring traditional reels and advanced video slots with progressive jackpots. For table game enthusiasts, the casino provides multiple variations of blackjack, roulette, and poker, including popular progressive jackpot versions. A dedicated poker room hosts cash games and tournaments for Texas Hold\u2019em, Omaha, and Pineapple. Guests can also enjoy video lottery terminals (VLTs) for fast-paced gaming action. With such variety, every visit to Great Northern Casino promises a unique and exciting experience.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Games<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slots: over 400 machines, including classic reels and video slots with jackpots that can exceed $50,000.\n<\/li>\n            <li>\u2022 Video Lottery Terminals (VLTs): around 30 terminals for instant-win fans.\n<\/li>\n            <li>\u2022 Table Games: blackjack, Free Bet Blackjack, roulette, Chase the Flush, plus Ultimate Texas Hold\u2019em and Three Card Poker with progressive jackpots.\n<\/li>\n            <li>\u2022 Poker: a dedicated room for cash games and tournaments in NLH, Omaha, Pineapple, and Crazy Pineapple.\n<\/li>\n\t    <li>\u2022 Progressive Jackpots: some games offer prizes up to $1,000,000.<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Great Northern Casino\n<\/h3>\n\n<p> Great Northern Casino offers flexible betting limits to accommodate players of all budgets. Slot machines and video lottery terminals allow for low-stakes play, while table games and poker tournaments provide opportunities for higher wagers. With a wide range of limits, every guest can find the perfect game to match their style and bankroll.\n<\/p>\n<br>\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#921245; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Lottery Terminals<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $2 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Free Bet Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1000<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold\u2019em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Three Card Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Chase the Flush<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Cash Games)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Blinds $1\/$2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to $500 buy-in\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Great Northern Casino\n<\/h3>\n\n<p> Great Northern Casino is more than a gaming venue\u2014it\u2019s a vibrant entertainment hub where every evening is filled with excitement. The main stage, Platinum Showroom, hosts concerts, comedy nights, and themed programs. Regular events include Kokanee Komedy Night, a weekly stand-up comedy show every Wednesday featuring top comedians and special drink and food offers. The casino is also known for its live music performances, ranging from local bands to renowned artists like Dr. Hook, Glass Tiger, and Emerson Drive. Karaoke nights add a personal touch, allowing guests to shine on stage.\n<\/p>\n<br>\n\n<p> Nightlife is a key part of the experience. Guests can enjoy stylish bars and lounge areas with live music and dance parties. Signature cocktails, gourmet menus, and themed celebrations make every visit unique. Seasonal events such as Christmas and New Year parties feature prize draws and exclusive shows. Great Northern Casino is also a top choice for corporate gatherings, birthdays, and private celebrations, offering \u201cPlay & Party\u201d packages that include dinner, entertainment, and gaming credits.\n<\/p>\n<br>\n\n<p> These activities transform the casino into a cultural hotspot where everyone can find something to enjoy\u2014from a relaxing evening with music to a lively night of dancing and comedy.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment Highlights<\/h4>\n\n\n        <ul>\n            <li>\u2022 Kokanee Komedy Night \u2014 weekly stand-up comedy on Wednesdays, tickets from $15, drink specials included.\n<\/li>\n            <li>\u2022 Live Concerts \u2014 performances by local and international artists, featuring rock, country, and tribute acts.\n<\/li>\n            <li>\u2022 Karaoke Nights \u2014 guests showcase their singing talents.\n<\/li>\n            <li>\u2022 Themed Parties \u2014 Halloween, Christmas, and New Year celebrations with prize giveaways.\n<\/li>\n\t    <li>\u2022 Dance Nights \u2014 DJ sets and live bands in the lounge.\n<\/li>\n            <li>\u2022 Special Shows \u2014 hypnotists, impersonators, and comedy acts.\n<\/li>\n\t    <li>\u2022 Corporate & Private Events \u2014 packages with dinner, entertainment, and gaming bonuses.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, and Relaxation at Great Northern Casino\n<\/h3>\n\n<p> Great Northern Casino offers guests more than gaming\u2014it provides a complete leisure experience with excellent dining and cozy spaces for socializing. The centerpiece is the Platinum Lounge, where visitors can enjoy signature cocktails, local cuisine, and live music. The lounge frequently hosts themed nights, concerts, and comedy shows, creating a festive atmosphere. For those seeking a quieter experience, lounge areas with comfortable seating and stylish d\u00e9cor are available.\n<\/p>\n<br>\n<p> Nearby hotels, including Service Plus Inns & Suites, offer special packages for casino guests. These packages include accommodation, free shuttle service, and gaming bonuses, making it easy to combine entertainment with relaxation. The casino also caters to corporate events and private parties, offering dinner options and entertainment programs tailored for groups.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Places to Eat and Relax<\/h4>\n\n\n        <ul>\n            <li>\u2022 Platinum Lounge \u2014 a bar with live music, cocktails, and snacks, perfect for parties and concerts.\n<\/li>\n            <li>\u2022 Casino Restaurant \u2014 local and international dishes with daily specials.\n<\/li>\n            <li>\u2022 Lounge Areas \u2014 cozy spaces for relaxing between games.\n<\/li>\n            <li>\u2022 Service Plus Inns & Suites \u2014 partner hotel with \u201cStay & Play\u201d packages including accommodation and gaming credits.\n<\/li>\n\t    <li>\u2022 Corporate Packages \u2014 dinners, shows, and gaming bonuses for group events.\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit cards (Visa, MasterCard), and debit cards.\n\n\n"
+                },
+                {
+                    "title": "What languages are supported?",
+                    "answer": "English is primary; staff often speak French. Russian is not standard.\n\n\n"
+                },
+                {
+                    "title": "What are the casino hours?",
+                    "answer": "Slots: 09:30 AM \u2013 03:00 AM (04:00 AM on weekends); table games start mid-afternoon.\n\n\n"
+                },
+                {
+                    "title": "What bonuses are available for new players?",
+                    "answer": "Welcome bonus up to $750 and free spins for online games.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/515",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Great Northern Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
